@@ -3,7 +3,7 @@
  */
 const request = require("request");
 
-const FORECAST_API_KEY = "b220e6ff4ad1a639d554fa30cfe654fc";
+const FORECAST_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 var weatherDetails = (locationData) => {
 
